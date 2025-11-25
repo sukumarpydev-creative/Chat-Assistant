@@ -1,0 +1,17 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>.env\ngitkey
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 95dfd091b32ecf7125af57ea293b00546e0d53f8)
++++ b/.gitignore	(date 1764042204903)
+@@ -1,2 +1,3 @@
+ .env
+-gitkey
+\ No newline at end of file
++gitkey
++vir-env
+\ No newline at end of file
